@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SD873982\\Source\\Repos\\CodeConvention\\CodeConvention\\CodeConvention.csproj": {}
+    "C:\\Users\\SD873982\\Source\\Repos\\kritish45\\CleanCode\\CodeConvention\\CodeConvention\\CodeConvention.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SD873982\\Source\\Repos\\CodeConvention\\CodeConvention\\CodeConvention.csproj": {
+    "C:\\Users\\SD873982\\Source\\Repos\\kritish45\\CleanCode\\CodeConvention\\CodeConvention\\CodeConvention.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SD873982\\Source\\Repos\\CodeConvention\\CodeConvention\\CodeConvention.csproj",
+        "projectUniqueName": "C:\\Users\\SD873982\\Source\\Repos\\kritish45\\CleanCode\\CodeConvention\\CodeConvention\\CodeConvention.csproj",
         "projectName": "CodeConvention",
-        "projectPath": "C:\\Users\\SD873982\\Source\\Repos\\CodeConvention\\CodeConvention\\CodeConvention.csproj",
+        "projectPath": "C:\\Users\\SD873982\\Source\\Repos\\kritish45\\CleanCode\\CodeConvention\\CodeConvention\\CodeConvention.csproj",
         "packagesPath": "C:\\Users\\SD873982\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SD873982\\Source\\Repos\\CodeConvention\\CodeConvention\\obj\\",
+        "outputPath": "C:\\Users\\SD873982\\Source\\Repos\\kritish45\\CleanCode\\CodeConvention\\CodeConvention\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

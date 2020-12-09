@@ -1,0 +1,13 @@
+C:\Users\SD873982\Source\Repos\kritish45\CleanCode\CodeConvention\CodeConvention\bin\Debug\netcoreapp3.1\CodeConvention.exe
+C:\Users\SD873982\Source\Repos\kritish45\CleanCode\CodeConvention\CodeConvention\bin\Debug\netcoreapp3.1\CodeConvention.deps.json
+C:\Users\SD873982\Source\Repos\kritish45\CleanCode\CodeConvention\CodeConvention\bin\Debug\netcoreapp3.1\CodeConvention.runtimeconfig.json
+C:\Users\SD873982\Source\Repos\kritish45\CleanCode\CodeConvention\CodeConvention\bin\Debug\netcoreapp3.1\CodeConvention.runtimeconfig.dev.json
+C:\Users\SD873982\Source\Repos\kritish45\CleanCode\CodeConvention\CodeConvention\bin\Debug\netcoreapp3.1\CodeConvention.dll
+C:\Users\SD873982\Source\Repos\kritish45\CleanCode\CodeConvention\CodeConvention\bin\Debug\netcoreapp3.1\CodeConvention.pdb
+C:\Users\SD873982\Source\Repos\kritish45\CleanCode\CodeConvention\CodeConvention\obj\Debug\netcoreapp3.1\CodeConvention.csprojAssemblyReference.cache
+C:\Users\SD873982\Source\Repos\kritish45\CleanCode\CodeConvention\CodeConvention\obj\Debug\netcoreapp3.1\CodeConvention.AssemblyInfoInputs.cache
+C:\Users\SD873982\Source\Repos\kritish45\CleanCode\CodeConvention\CodeConvention\obj\Debug\netcoreapp3.1\CodeConvention.AssemblyInfo.cs
+C:\Users\SD873982\Source\Repos\kritish45\CleanCode\CodeConvention\CodeConvention\obj\Debug\netcoreapp3.1\CodeConvention.csproj.CoreCompileInputs.cache
+C:\Users\SD873982\Source\Repos\kritish45\CleanCode\CodeConvention\CodeConvention\obj\Debug\netcoreapp3.1\CodeConvention.dll
+C:\Users\SD873982\Source\Repos\kritish45\CleanCode\CodeConvention\CodeConvention\obj\Debug\netcoreapp3.1\CodeConvention.pdb
+C:\Users\SD873982\Source\Repos\kritish45\CleanCode\CodeConvention\CodeConvention\obj\Debug\netcoreapp3.1\CodeConvention.genruntimeconfig.cache

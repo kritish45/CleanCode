@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CodeConvention/1.0.0": {
+        "runtime": {
+          "CodeConvention.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodeConvention/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
